@@ -1,4 +1,4 @@
-# DAY-2(TASK 1) HDLbits programs
+# (TASK 1) HDLbits programs
 ## -->day2
 
 ### 1.STEP ONE
